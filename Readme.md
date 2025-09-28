@@ -6,24 +6,6 @@
 
 ---
 
-## 🚀 About Me  
-
-- 🎓 **3rd Year CSE Student @ Mumbai University** (CGPA: 9.53)  
-- 💻 Passionate about **MERN stack, AI/ML**  
-- 🏆 Active in **LeetCode, hackathons, and open-source contributions**  
-- 🔐 Built projects like **Secure Document Vault**, **Virtual Banking System**, **AI Developer App**, and more 
-
----
-
-## 🛠️ Tech Stack  
-
-- **Languages:** Java · C++ · Python · JavaScript · SQL · C#  
-- **Web Dev:** React · Node.js · Express.js · MongoDB · HTML · CSS  
-- **AI/ML:** pandas · scikit-learn · NLP · DistilBERT · CNNs  
-- **Tools:** Git · GitHub · VS Code · MySQL · Streamlit  
-
----
-
 ## 📊 GitHub Highlights  
 
 <p align="center">
