@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 GitHub Highlights  
+## GitHub Highlights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utkarshbinekar&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
