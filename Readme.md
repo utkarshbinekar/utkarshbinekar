@@ -1,7 +1,7 @@
 # Hi, I'm Utkarsh Binekar 👨‍💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7B6&center=true&vCenter=true&width=435&lines=Computer+Science+Student;MERN+Stack+Learner;AI+%26+ML+Explorer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7B6&center=true&vCenter=true&width=435&lines=Computer+Science+Student;MERN+Stack+Developer;AI+%26+ML+Explorer;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 ---
