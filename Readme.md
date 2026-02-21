@@ -16,13 +16,17 @@
 
 ## ⛏️ Tech Inventory
 
-### 🧰 Languages
-`Java` `C++` `C` `Python` `JavaScript` `SQL` `C#`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript,react,nodejs,express,mongodb,html,css,tailwind,mysql,postgres,firebase,tensorflow,git,github,linux,postman" />
+</p>
 
-### 🏗️ Frameworks & Tools
-`React` `Node.js` `Express.js` `MongoDB`  
-`TensorFlow` `Streamlit` `MySQL` `Git`  
-`Linux` `Firebase`
+<p align="center">
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?logo=n8n&logoColor=white"/>
+</p>
 
 ---
 
