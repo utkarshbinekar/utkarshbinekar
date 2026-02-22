@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Github_Steve" src="https://github.com/user-attachments/assets/364a201b-c8d1-464a-a245-7808146370cf" />
+
+
 # 🧱 Hey, I'm Utkarsh Binekar
 
 <p align="center">
